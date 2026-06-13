@@ -1,0 +1,7 @@
+numpy<2
+# CPU version
+onnxruntime>=1.16.0
+# GPU version (ort-gpu must match your CUDA version, install based on your device):
+# onnxruntime-gpu>=1.16.0
+pillow>=9.0.0
+tqdm>=4.60.0
